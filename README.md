@@ -32,6 +32,7 @@ The goal: **integrate and analyze Netflix and IMDB datasets to uncover insights 
 
 **Data Flow:**
 
+Kaggle CSV → Databricks → Transform & Join → Delta/Parquet in ADLS → Synapse Serverless 
 
 ---
 
@@ -142,5 +143,5 @@ The goal: **integrate and analyze Netflix and IMDB datasets to uncover insights 
 
 ---
 
-**Project by [Your Name]** 🚀
+**Project by Aditya Bharadwaj** 🚀
 
